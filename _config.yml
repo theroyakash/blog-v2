@@ -1,0 +1,31 @@
+repository:	     theroyakash/blog-v2
+# Permalinks
+permalink:           /:year/:month/:day/:title/
+
+# Setup
+theme: minima
+title:               new blog who dis?
+url:                 https://blog.theroyakash.com
+paginate:            10
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              theroyakash
+  url:               https://twitter.com/theroyakash
+  email:             hey@theroyakash.com
+
+# Gems
+plugins:
+  - jekyll-avatar
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
