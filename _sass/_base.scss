@@ -14,8 +14,13 @@ body {
   padding: 0;
 }
 
+@font-face {
+  font-family: "SegoeUI";
+  src: "./SegoeUI.ttf";
+}
+
 html {
-  font-family: $root-font-family;
+  font-family: "SegoeUI";
   font-size: $root-font-size;
   line-height: $root-line-height;
 
