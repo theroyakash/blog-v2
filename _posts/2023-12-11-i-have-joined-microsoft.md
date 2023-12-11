@@ -1,7 +1,7 @@
 ---
-title: I've Joined Microsoft & Future Plans
+title: I have Joined Microsoft & Future Plans
 layout: post
-category: Interactions
+category: Plans and Announcements
 ---
 
 ## New shit
