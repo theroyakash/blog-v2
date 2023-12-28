@@ -15,12 +15,12 @@ body {
 }
 
 @font-face {
-  font-family: "SegoeUI";
-  src: "./SegoeUI.ttf";
+  font-family: "segoeui";
+  src: "./segoeui.ttf";
 }
 
 html {
-  font-family: "SegoeUI";
+  font-family: "segoeui";
   font-size: $root-font-size;
   line-height: $root-line-height;
 
