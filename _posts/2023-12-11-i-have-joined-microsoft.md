@@ -4,7 +4,6 @@ layout: post
 category: Plans and Announcements
 ---
 
-## New shit
 It is great to tell you that I've joined Microsoft as a software engineer. The future plans for this blog is listed below.
 
 ## Future Plans for this blog
