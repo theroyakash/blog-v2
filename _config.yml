@@ -4,7 +4,7 @@ permalink:           /:year/:month/:day/:title/
 
 # Setup
 theme: minima
-title:               new blog who dis?
+title:               blog - theroyakash
 url:                 https://blog.theroyakash.com
 paginate:            10
 baseurl:             ""
@@ -19,7 +19,7 @@ sass:
 # About/contact
 author:
   name:              theroyakash
-  url:               https://twitter.com/theroyakash
+  url:               https://instagram.com/theroyakash
   email:             hey@theroyakash.com
 
 # Gems
