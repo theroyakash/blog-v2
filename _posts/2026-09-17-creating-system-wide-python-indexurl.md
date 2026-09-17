@@ -4,9 +4,7 @@ layout: post
 category: Technical
 ---
 
-# Set the default package index for uv (Windows and macOS)
-
-Configure this once per user on each machine. New and existing uv projects will use the Microsoft feed by default.
+Configure this once per user on each machine. New and existing uv projects will use the a custom feed by default while downloading new packages using uv.
 
 ## 1. Open the user configuration file
 
